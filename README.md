@@ -4,4 +4,4 @@ Projet de portefeuille numérique avec backend Python, frontend React et intégr
 Structure:
 - backend/ : API Python (FastAPI)
 - frontend/ : application React
-- infra/ : docker-compose, scripts d'infra, déploiement
+- infra/ : scripts d'infra, déploiement
